@@ -1,5 +1,5 @@
 ---
-title: "**L’accrobranche : qu’est-ce que c’est ?**<h1 style=\"color:blue;\">"
+title: "**L’accrobranche : qu’est-ce que c’est ?**"
 order: 1
 in_menu: true
 ---
