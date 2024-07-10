@@ -1,8 +1,6 @@
 ---
-title: Accueil
+title: "vive l'accrobranche"
 order: 0
+in_menu: true
 ---
-
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+l’accrobranche est une activité qui consiste à grimper à la cime des arbres et se balader d’arbre en arbre au travers de différents obstacles plus fun les uns que les autres. L’activité est adaptée pour tous les âges, les parc aventure proposent généralement des parcours spécifique 
