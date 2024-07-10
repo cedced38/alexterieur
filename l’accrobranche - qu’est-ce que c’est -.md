@@ -1,6 +1,6 @@
 ---
 title: "L’accrobranche : qu’est-ce que c’est ?"
-order: 1
+order: 2
 in_menu: true
 ---
 <h1 style="background-color:DodgerBlue;">Appelée également parcours aventure, l’accrobranche est une activité qui consiste à grimper à la cime des arbres et se balader d’arbre en arbre au travers de différents obstacles plus fun les uns que les autres.
